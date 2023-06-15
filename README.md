@@ -3,7 +3,7 @@
 <br/>
 
 ### My name is Elias and my nickname is eliasmartoliv 😎
-I'm a Back-end Developer and Development Analysis student focused in PHP 🐘
+I'm a Back-end Developer and Analysis and Systems Development student focused in PHP 🐘
 <br/>
 <br/>
 <br/>
