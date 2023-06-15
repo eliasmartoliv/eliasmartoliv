@@ -1,10 +1,14 @@
 # Hi there 👋
-## Welcome to my Github profile!
+## Welcome to my GitHub profile!
+<br/>
 
 ### My name is Elias and my nickname is eliasmartoliv 😎
 I'm a Back-end Developer and Development Analysis student focused in PHP 🐘
+<br/>
+<br/>
+<br/>
 
-### Tools and technologies I'm always learning:
+### Tools and technologies I'm *always* learning:
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="70" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="70" height="50" />
@@ -16,6 +20,8 @@ I'm a Back-end Developer and Development Analysis student focused in PHP 🐘
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="50" />
 </p>
+<br/>
+<br/>
 
 <div>
 <p>
@@ -24,6 +30,7 @@ I'm a Back-end Developer and Development Analysis student focused in PHP 🐘
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eliasmartoliv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </p>
 </div>
+<br/>
 
 
 ### How to reach me:
